@@ -26,5 +26,4 @@
 1️⃣ Clone the Repository  
 ```sh
 git clone https://github.com/mohityadavGit/interactive-card.git
-2️⃣ Navigate to the Project Directory 
-  cd interactive-card
+cd interactive-card
